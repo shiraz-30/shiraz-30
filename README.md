@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shiraz Mangat</h1>
 <h3 align="center">A Machine Learning & Data Science enthusiast from India</h3>
 
-- 🌱 I’m currently learning **ML Techniques & SQL**
+- 🌱 I’m currently learning **ML Techniques, SQL & DSA**
 
 - 📫 You can reach me at **smangat1435@gmail.com**
 
