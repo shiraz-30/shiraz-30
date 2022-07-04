@@ -7,7 +7,7 @@
 
 - 📝 I am currently pursuing my B.Tech. Degree in <i>Computer Science and Engineering</i> from <a href="https://pec.ac.in/" target = "_blank"> Punjab Engineering College.</a>
 
-- 📄 My <b> Resume </b> is attached <a href="https://www.canva.com/design/DAE62vllZ4Y/ccTYDBzpTliS8OaEn0Q0fg/view?utm_content=DAE62vllZ4Y&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" target = "_blank"> Here </a>
+- 📄 My <b> Resume </b> is attached <a href="https://www.canva.com/design/DAFFFNAPz7o/emBDDY3b9CImNrjkfqhiHw/view?utm_content=DAFFFNAPz7o&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" target = "_blank"> Here </a>
 
 <br>
 
